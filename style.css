@@ -1,0 +1,76 @@
+h1
+{
+background-color:rgb(22, 239, 255);
+color:rgb(255, 255, 255) ;
+font-family:"Dancing system-ui";
+font-style: "italic";
+}
+
+body
+{
+background-image:url("camera2.jpg");
+background-position: center;
+background-size: cover;
+}
+
+h4
+{
+background-color: rgb(170, 226, 236);
+color:rgb(255, 255, 255) ;
+font-family:"fantasy";
+font-style: "italic";
+}
+
+#camera
+{
+width: 500px;
+height: 400px;
+background-image:url("nuvem.png") ;
+font-family: "cursive";
+font-style: italic;
+border-color: rgb(7, 181, 224);
+color: rgb(28, 221, 255);
+}
+
+img
+{
+width: 500px;
+border-radius: 140px;
+padding: 130;
+box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+.column
+{
+display: inline;
+padding: 10px;
+}
+
+img:hover
+{
+border-radius: 140px;
+}
+
+.copy_right_footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color:rgb(70, 221, 221) ;
+color: rgb(249, 253, 255);
+}
+
+h3{
+    background-color: deepskyblue;
+    color: white;
+}
+
+label{
+    background-color:rgb(213, 213, 255);
+    color: rgb(253, 80, 245);
+}
+
+
+
+
